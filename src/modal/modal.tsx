@@ -29,7 +29,7 @@ const Modal = ({ isOpen, onClose, children }: ModalProps) => {
 			onClick={onClose}
 		>
 			<div
-				className="relative bg-gray-100 bg-opacity-40 transition-opacity rounded-2xl shadow-2xs overflow-auto max-h-[90vh]"
+				className="relative bg-gray-100 bg-opacity-40 transition-opacity rounded-2xl shadow-2xs max-h-[90vh]"
 				onClick={e => e.stopPropagation()}
 			>
 				{children}
