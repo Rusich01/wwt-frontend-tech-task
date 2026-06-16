@@ -1,8 +1,10 @@
 {
-	"MainTitle": "WinWinTravel frontend test task",
-	"Open": "Open filters",
+  "title": { "title": "WinWinTravel frontend test task" },
 
-	"Filter": "Filter",
-	"Apply": "Apply",
-	"ClearAll": "Clear all parameters"
+  "button": {
+    "open": "Open filters",
+    "filter": "Filter",
+    "apply": "Apply",
+    "clear": "Clear all parameters"
+  }
 }

@@ -1,5 +1,7 @@
 {
-	"Do you want apply new filter": "Do you want apply new filter",
-	"Apply new filter": "Apply new filter",
-	"Use old filter": "Use old filter"
+  "modal": {
+    "title": "Do you want apply new filter?",
+    "confirmButton": "Apply new filter",
+    "cancelButton": "Use old filter"
+  }
 }

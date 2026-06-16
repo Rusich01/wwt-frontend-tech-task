@@ -1,10 +1,10 @@
-import { FilterType } from '.'
+import { FilterType } from ".";
 
 export interface FilterBase {
-	id: string
-	name: string
-	description?: string
-	image?: string
-	icon?: string
-	type: FilterType
+  id: string;
+  name: string;
+  description?: string;
+  image?: string;
+  icon?: string;
+  type: FilterType;
 }
